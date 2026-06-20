@@ -13,11 +13,6 @@
 
 ## Projects
 
-### ✅ To-Do List App
-- Task creation, editing, and deletion
-- User-friendly interface
-- Built with: [Technology Used]
-
 ### 🧮 Calculator
 - Basic arithmetic operations
 - Clean UI design
@@ -37,9 +32,6 @@
 - Two-player gameplay
 - Win/draw detection
 - Built with: [Technology Used]
-
-### Flutter Task Manager
-Cross-platform mobile application for task management.
 
 ### ASP.NET E-Commerce Website
 Full-stack web application with authentication.
